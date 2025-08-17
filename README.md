@@ -1,11 +1,11 @@
 # pengalaman-belajar
 
-14 Juni 2025
+**14 Juni 2025**<br>
 Belajar kelas Memulai Pemrograman dengan Bahasa Java (Progress 21%).
 * Belajar tentang apa itu java dan alasan menggunakannya
 * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman java
 
-15 Juni 2025
+**15 Juni 2025**<br>
 Belajar kelas Memulai Pemrograman dengan Bahasa Java (Progress 56%).
 * Belajar dasar-dasar java, seperti struktur dasar, tipe data, string, operator, input output, dan array
 * Belajar control flow dalam java seperti perulangan dan percabangan
